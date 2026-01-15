@@ -6,7 +6,6 @@ from itertools import permutations
 
 from cvx_ELM import *
 from utils import *
-from ui_tkinter import *
 from downsampling import *
 
 from pymoo.core.problem import ElementwiseProblem
